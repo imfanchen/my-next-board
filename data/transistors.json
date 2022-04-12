@@ -1,0 +1,11 @@
+[
+    {   
+        "id": 1, 
+        "type": "transistor", 
+        "description": "xyz-123",
+        "current_gain": 1.0,
+        "collector_emitter_voltage": 1.0,
+        "emitter_base_voltage": 1.0,
+        "collector_current": 1.0
+    }
+]

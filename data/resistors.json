@@ -1,0 +1,15 @@
+[
+    {   
+        "id": 1, 
+        "type": "resistor", 
+        "description": "jkl-123",
+        "tolerance": 0.02, 
+        "stability": 0.01,
+        "reliability": 0.01,
+        "voltage_coefficient": 0.01,
+        "noise": 0.01,
+        "temperature_rating": 0.01,
+        "thermal_resistance": 0.01,
+        "temperature_coefficient_of_resistance": 0.01
+    }
+]

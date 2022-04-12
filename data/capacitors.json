@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "type": "capacitor",
+        "description": "abc-123",
+        "nominal_capacitance": 0.02,
+        "working_voltage": 200,
+        "tolerance": 0.05,
+        "working_temperature": 0,
+        "temperature_coefficient": 0.8
+    },
+    {
+        "id": 2,
+        "type": "capacitor",
+        "description": "abc-456",
+        "nominal_capacitance": 0.04,
+        "working_voltage": 400,
+        "tolerance": 0.1,
+        "working_temperature": 10,
+        "temperature_coefficient": 1.8
+    }
+]
